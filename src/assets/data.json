@@ -1,0 +1,50 @@
+
+{
+  "projects": [
+    {
+      
+      "title": "Text Editer",
+      "description": "Our online text editor helps you to edit plain text. Simply copy and Paste or write text to edit text online.",
+      "url": "https://mytextediter.netlify.app",
+      "imgSrc": "https://addons.mozilla.org/user-media/previews/full/228/228908.png?modified=1622134213"
+    },
+
+    {
+      
+      "title": "Daily News",
+      "description": "Top News in India: Read Latest News on Sports, Business, Entertainment, Blogs and Opinions from leading columnists.",
+      "url": "",
+      "imgSrc": "https://www.rd.com/wp-content/uploads/2019/10/newspaper.jpg?resize=700,466"
+    },
+    {
+      
+      "title": "XCrypto",
+      "description": "XCrypto in You can currently show Bitcoin, Ethereum, and Litecoin and other coins and tokens on the platform.",
+      "url": "https://myxcrypto.netlify.app",
+      "imgSrc": "https://i.ibb.co/VQyGZG6/cripto.png"
+    },
+    {
+      
+      "title": "FITNESS",
+      "description": "The site is clearly show the exercises can results for his clients.",
+      "url": "https://fitnesslearn.netlify.app/",
+      "imgSrc": "https://i.ibb.co/tsyStNF/fitness.png"
+    },
+    {
+      
+      "title": "iNotebook",
+      "description": "An online web platform where you can create, edit, upload, delete your notes/information privately and securely.",
+      "url": "https://notebookcloud.netlify.app/",
+      "imgSrc": "https://i.ibb.co/ypQVVDx/i-Notebook.png"
+    }
+    ,
+    {
+      
+      "title": "PORTFOLIO",
+      "description": "An online portfolio is an online representation of work you have created, as well as your skills and experiences.",
+      "url": "/",
+      "imgSrc": "https://assets-global.website-files.com/5ec7dad2e6f6295a9e2a23dd/622247604509de4a60a5e388_freelancer-portfolio.jpg"
+    }
+   
+  ]
+}
